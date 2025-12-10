@@ -1,6 +1,12 @@
 # Prerequisites
 *.d
 
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.vcxproj.user
+
 # Compiled Object files
 *.slo
 *.lo
@@ -30,3 +36,16 @@
 *.exe
 *.out
 *.app
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+
+# Compiled files
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
